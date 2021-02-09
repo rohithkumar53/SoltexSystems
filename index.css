@@ -1,0 +1,65 @@
+#xyz{
+	background-image: url("solbg.jpg");
+	background-position: center;
+	width: auto;
+	height: 500px;
+
+
+}
+div #middlepart{
+	text-align: center;
+	padding: 150px 0px;
+	color: white;
+}
+
+#abc{
+	margin: 100px auto;
+	text-align: center;
+}
+#abc img{
+	height: 180px;
+	width: 180px;
+}
+.pqr h5{
+	padding-top: 15px;
+}
+.pqr p{
+	padding-top: 15px;
+}
+.pqr a{
+	padding: 0px 25px;
+}
+
+footer{
+	color: white;
+	padding:50px 80px;
+	background-color: black; 
+	height: 90px;
+}
+#rss{
+	float: right;
+}
+.about{
+	text-align: center;
+}
+#sqs{
+	line-height: 200%;
+	margin-bottom: 200px;
+}
+#abs{
+	line-height: 200%;
+	margin-bottom: 200px;
+}
+#sqs h4{
+	padding: 20px 0px 70px 0px;
+}
+#sqs img{
+	height:180px;
+	width: 250px;
+}
+#map{
+	margin-left: 200px;
+}
+#contact{
+	line-height: 200%;
+}
